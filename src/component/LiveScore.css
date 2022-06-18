@@ -82,7 +82,7 @@
 .international1{
     width:120px;
     height:20px;
-    border:1px solid red;
+    /* border:1px solid red; */
     margin-left:40px;
     border-radius:30px;
     background-color:rgb(159, 157, 157);
