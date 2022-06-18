@@ -1,0 +1,175 @@
+.login_container{
+    width:1200;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.current_matches{
+    width:100%;
+    height:30px;
+    /* border:1px solid red; */
+    display: flex;
+}
+.current_matches1{
+    width:180px;
+    height:100%;
+    /* border:1px solid red; */
+}
+.current_matches1>p{
+    margin-top:0px;
+    margin-left:20px;
+    color:  rgb(0,146,112);
+    font-weight: bold;
+}
+.current_matches2{
+    width:200px;
+    height:100%;
+    /* border:1px solid red; */
+}
+.current_matches2>p{
+    margin-top:0px;
+    margin-left:4px;
+}
+.current_matches3{
+    width:150px;
+    height:100%;
+    /* border:1px solid red; */
+}
+.current_matches3>p{
+    margin-top:0px;
+    margin-left:4px;
+}
+.Cricket{
+    width:100%;
+    height:50px;
+    /* border:1px solid red; */
+}
+.Cricket>h2{
+    margin-left:20px;
+    margin-top:5px;
+}
+.live_cricket{
+    width:100%;
+    height:30px;
+    /* border:1px solid red; */
+    display:flex;
+}
+.live_cricket>div{
+    font-size:13px;
+    margin-left:40px;
+}
+.login_container_sub1{
+    margin-top:0px;
+    width:70%;
+    /* border:1px solid red; */
+}
+.internal_div{
+    width:100%;
+    height:30px;
+    /* border:1px solid red; */
+    display: flex;
+}
+.international{
+    width:120px;
+    height:20px;
+    /* border:1px solid red; */
+    margin-left:40px;
+    border-radius:30px;
+    background-color: rgb(0,146,112);
+    color:white;
+    font-size:13px;
+    text-align: center;
+}
+.international1{
+    width:120px;
+    height:20px;
+    border:1px solid red;
+    margin-left:40px;
+    border-radius:30px;
+    background-color:rgb(159, 157, 157);
+    font-size:13px;
+    text-align: center;
+}
+.bangladesh_tour{
+    width:90%;
+    margin: auto;
+    height:40px;
+    background-color: rgb(222, 217, 217);
+    text-align: center;
+    padding-top:3px;
+}
+.bangladesh_tour>h3{
+    margin-top:10px;
+}
+.West_Indies{
+    width:100%;
+    height:60px;
+    /* border:1px solid red; */
+}
+.West_Indies1{
+    width:100%;
+    /* border:1px solid red; */
+    height:30px;
+    text-align: center;
+    display: flex;
+}
+.West_Indies1>span>h5{
+    margin-top:0px;
+    margin-left:50px;
+}
+.West_Indies1>span>p{
+    margin-left:4px;
+    color:grey;
+    margin-top:0px;
+    font-size:13px;
+}
+.West_Indies>p{
+    margin-top:0px;
+    margin-left:47px;
+    font-size:14px;
+    color:rgb(89, 88, 88);
+}
+.ban{
+    width:40%;
+    margin-left:40px;
+    /* border:1px solid red; */
+    height:100px;
+    background-color:rgb(245,245,245);
+}
+.ban>span{
+    margin-top:20px;
+    margin-left:20px;
+    font-weight: bold;
+    color:gray;
+    font-size:13px;
+}
+.ban>p{
+    margin-top:5px;
+}
+.ban>p>span{
+    margin-left:25px;
+    font-size:13px;
+    font-weight: bold;
+}
+.ban>div{
+    color: red;
+    font-size:12px;
+    margin-top:3px;
+    margin-left:27px;
+}
+.Scoreboard{
+    width:80%;
+    margin-left:4.8%;
+    height:30px;
+    /* border:1px solid red; */
+    display: flex;
+}
+.border1{
+    color: blue;
+    margin-left:5px;
+    font-size:13px;
+    margin-top:5px;
+}
+.border{
+    border-right:1.5px solid black;
+    margin-left:5px;
+}

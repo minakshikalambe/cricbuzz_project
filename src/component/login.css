@@ -1,0 +1,78 @@
+.login_container{
+    width:1200px;
+    /* border: 1px solid red; */
+    margin:auto;
+    height:500px;
+}
+.login_container1{
+    width:100%;
+    /* border:1px solid red; */
+    height:110px
+}
+.login_container2{
+    width:50%;
+    margin: auto;
+    /* border:1px solid red; */
+}
+.login_title{
+    width:100%;
+    /* border:1px solid red; */
+    height:40px;
+    text-align: center;
+}
+.login_title>h2{
+     margin-top:0px;
+}
+.login_p{
+    width:100%;
+    /* border:1px solid red; */
+    height:40px;
+    text-align: center;
+}
+.login_p>p{
+    margin-top:0px;
+    color:gray;
+}
+.login_input{
+    width:100%;
+    /* border:1px solid red; */
+    height:50px;
+}
+.login_input>span>img{
+    margin-left:40px;
+    margin-top:10px;
+}
+
+.login_input>span>input{
+    margin-top:0px;
+    width:500px;
+    text-decoration:none;
+}
+.plolicy_privacy{
+    width:100%;
+    /* border:1px solid red; */
+    height:60px;
+    display: flex;
+    text-align: center;
+}
+.plolicy_privacy>input{
+    margin-left:45px;
+    margin-top:30px;
+}
+.plolicy_privacy>span{
+    margin-top:25px;
+}
+.button_div{
+    width:40%;
+    /* border:1px solid red; */
+    margin:auto;
+    height:40px;
+}
+.button_div>button{
+    width: 80%;
+    height:30px;
+    margin:auto;
+    background-color: rgb(0,146,112);
+    border: none;
+    margin-left:20px;
+}
